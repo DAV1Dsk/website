@@ -308,7 +308,7 @@ main .main-content {
   transform: translateY(-50%);
   background: transparent;
   border: 0px;
-  color: rgb(4, 0, 255);
+  color: white;
   font-size: 30px;
   cursor: pointer;
   z-index: 101;
